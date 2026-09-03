@@ -939,5 +939,12 @@ export const MEMBERS: readonly Member[] = [
     lastName: 'Pokuri',
     googleEmailPrefix: 'pradyut2386',
     memberOf: [ROLE_IDS.INTERCEPTORS_WG],
+  },
+  {
+    github: 'stevenrchen',
+    firstName: 'Steven',
+    lastName: 'Chen',
+    googleEmailPrefix: 'chenruiyang',
+    memberOf: [ROLE_IDS.INTERCEPTORS_WG],
   }
 ] as const;
