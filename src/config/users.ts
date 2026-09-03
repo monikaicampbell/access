@@ -910,4 +910,13 @@ export const MEMBERS: readonly Member[] = [
     googleEmailPrefix: 'claude',
     memberOf: [ROLE_IDS.SERVICE_ACCOUNTS],
   },
+  {
+    github: 'monikaicampbell',
+    email: 'monikaicampbell@outlook.com',
+    discord: '1545020658730401813',
+    firstName: 'Monika',
+    lastName: 'Campbell',
+    googleEmailPrefix: 'monikaicampbell',
+    memberOf: [ROLE_IDS.INTERCEPTORS_WG],
+  },
 ] as const;
