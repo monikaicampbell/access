@@ -916,7 +916,7 @@ export const MEMBERS: readonly Member[] = [
     discord: '1545020658730401813',
     firstName: 'Monika',
     lastName: 'Campbell',
-    googleEmailPrefix: 'monikaicampbell',
+    googleEmailPrefix: 'monika.campbell',
     memberOf: [ROLE_IDS.INTERCEPTORS_WG],
   },
 ] as const;
